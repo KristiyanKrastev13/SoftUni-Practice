@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrix", "SumMatrix\SumMatrix.csproj", "{33A2EC7F-EAD3-4F16-9185-8FD28757AA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixColums", "SumMatrixColums\SumMatrixColums.csproj", "{1C3BA8C3-3C43-41EB-A37D-38B62D3ADA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalSum", "DiagonalSum\DiagonalSum.csproj", "{B46696C5-7854-4FFF-BF9E-3A0C75E84023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolInMaxtix", "SymbolInMaxtix\SymbolInMaxtix.csproj", "{63C57E6A-D506-4036-9713-CB24D47AB9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareWithMaxSum", "SquareWithMaxSum\SquareWithMaxSum.csproj", "{A6FBB729-62AE-4023-9F4D-292FE411124E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayModification", "JaggedArrayModification\JaggedArrayModification.csproj", "{ECA07A58-EE99-4D62-8879-DB7CED160863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{1591CBC9-D9A1-44C5-B818-7C2DC1D1F9C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A2EC7F-EAD3-4F16-9185-8FD28757AA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A2EC7F-EAD3-4F16-9185-8FD28757AA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A2EC7F-EAD3-4F16-9185-8FD28757AA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A2EC7F-EAD3-4F16-9185-8FD28757AA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3BA8C3-3C43-41EB-A37D-38B62D3ADA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3BA8C3-3C43-41EB-A37D-38B62D3ADA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3BA8C3-3C43-41EB-A37D-38B62D3ADA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3BA8C3-3C43-41EB-A37D-38B62D3ADA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46696C5-7854-4FFF-BF9E-3A0C75E84023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46696C5-7854-4FFF-BF9E-3A0C75E84023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46696C5-7854-4FFF-BF9E-3A0C75E84023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46696C5-7854-4FFF-BF9E-3A0C75E84023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C57E6A-D506-4036-9713-CB24D47AB9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C57E6A-D506-4036-9713-CB24D47AB9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C57E6A-D506-4036-9713-CB24D47AB9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C57E6A-D506-4036-9713-CB24D47AB9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FBB729-62AE-4023-9F4D-292FE411124E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FBB729-62AE-4023-9F4D-292FE411124E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FBB729-62AE-4023-9F4D-292FE411124E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FBB729-62AE-4023-9F4D-292FE411124E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA07A58-EE99-4D62-8879-DB7CED160863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA07A58-EE99-4D62-8879-DB7CED160863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA07A58-EE99-4D62-8879-DB7CED160863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA07A58-EE99-4D62-8879-DB7CED160863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1591CBC9-D9A1-44C5-B818-7C2DC1D1F9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1591CBC9-D9A1-44C5-B818-7C2DC1D1F9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1591CBC9-D9A1-44C5-B818-7C2DC1D1F9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1591CBC9-D9A1-44C5-B818-7C2DC1D1F9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6612F029-FA22-4798-8669-12BA71795FA9}
+	EndGlobalSection
+EndGlobal
